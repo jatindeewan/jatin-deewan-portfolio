@@ -1,6 +1,6 @@
 # Jatin Deewan — Marketing & Growth Leadership Portfolio
 
-A responsive React + Vite portfolio inspired by the editorial structure of the reference site at https://muhammadumar.net/. This is an original implementation; it does not use or reproduce that site's proprietary source code.
+A responsive React + Vite portfolio. This is an original implementation; it does not use or reproduce that site's proprietary source code.
 
 ## Run locally
 
